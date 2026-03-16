@@ -1,0 +1,6 @@
+POST http://localhost:5000/analyze
+Content-Type: application/json
+
+{
+  "repoUrl": "https://github.com/vxcontrol/pentagi"
+}
